@@ -1,1 +1,1 @@
-# Just learning basic sort algorithms
+# Just learning basic algorithms
