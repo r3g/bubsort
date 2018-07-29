@@ -1,1 +1,1 @@
-# Just learning basic algorithms
+# just learning
