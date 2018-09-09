@@ -8,7 +8,7 @@ def int2hex(x):
   result = hex(x)
   return result
 
-for num in range(1001):
+for num in range(33):
   bin_val = int2bin(num) 
   hex_val = int2hex(num)
   print("{} {} {}".format(num, bin_val, hex_val))
