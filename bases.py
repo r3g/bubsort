@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python
 
 def int2bin(x):
   result = format(x, "08b")
